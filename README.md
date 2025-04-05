@@ -14,5 +14,6 @@
 
 <p align="center" width="100%">
   <img src="https://img.shields.io/badge/gav-no-purple">
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false">
 </p>
