@@ -7,3 +7,4 @@
 
 [![Covert-Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=covertivy&show_icons=true&theme=radical&show_owner=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/covertivy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=covertivy&layout=compact&theme=radical)](https://github.com/covertivy)
+[![Covert-Ivy's GitHub stats](https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&section=footer&reversal=false)](https://github.com/covertivy)
