@@ -1,4 +1,4 @@
-<a href="https://stackexchange.com/users/19108462/covertivy"><img src="https://stackexchange.com/users/flair/19108462.png" width="208" height="58" alt="profile for covertivy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for covertivy on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/19108462"><img src="https://stackexchange.com/users/flair/19108462.png?theme=dark" width="208" height="58" alt="profile for covertivy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for covertivy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## Hi there 👋
 
