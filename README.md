@@ -1,6 +1,6 @@
-[![Covert-Ivy's GitHub stats](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🐱‍👤Covert%20Ivy🌿)](https://github.com/covertivy)
-
 <p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🐱‍👤Covert%20Ivy🌿">
+  <br />
   <img src="https://img.shields.io/badge/gav-no-purple">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=covertivy&show_icons=true&theme=radical&show_owner=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
@@ -14,4 +14,6 @@
 - 🌱 I’m currently interested in MSRPC, COM & DCOM - Windows Hacking and Red Teaming for Security Research Purposes.
 - 🔭 I’m currently working on improving `impacket`.
 
-[![Covert-Ivy's GitHub stats](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false)](https://github.com/covertivy)
+<p align="center" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false">
+</p>
