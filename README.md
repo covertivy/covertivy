@@ -1,6 +1,8 @@
-## Hi there 👋
+[![Covert-Ivy's GitHub stats](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20🐱‍👤)](https://github.com/covertivy)
 
-[![Covert-Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=covertivy&show_icons=true&theme=dracula&show_owner=true)](https://github.com/covertivy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=covertivy&layout=compact&theme=dracula)](https://github.com/covertivy)
+
+[![Covert-Ivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=covertivy&show_icons=true&theme=dracula&show_owner=true)](https://github.com/covertivy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=covertivy&layout=compact&theme=dracula)](https://github.com/covertivy)
 
 <a href="https://stackexchange.com/users/19108462"><img src="https://stackexchange.com/users/flair/19108462.png?theme=dark" width="208" height="58" alt="profile for covertivy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for covertivy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
@@ -20,6 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
