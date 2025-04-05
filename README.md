@@ -1,8 +1,6 @@
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🐱‍👤Covert%20Ivy🌿">
   <br />
-  <img src="https://img.shields.io/badge/gav-no-purple">
-  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=covertivy&show_icons=true&theme=radical&show_owner=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=covertivy&layout=compact&theme=radical">
@@ -15,5 +13,6 @@
 - 🔭 I’m currently working on improving `impacket`.
 
 <p align="center" width="100%">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false">
+  <img src="https://img.shields.io/badge/gav-no-purple">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false">
 </p>
