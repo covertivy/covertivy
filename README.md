@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🐱‍👤Covert%20Ivy🌿">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🥷 Covertivy 🤐">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=covertivy&show_icons=true&theme=radical&show_owner=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <br />
@@ -8,6 +8,11 @@
   <br />
 </p>
 
+- ❓ You ask how I chose my **tag name**? Oh, well:
+  - "Raz" also means "secret" in hebrew. 
+  - ivy (eevee) in hebrew is a suffix appended to adjectives (sportivy = sporty).
+  - I chose the cooler english word "covert".
+  - Together, we get "Covertivy" which means "Covertly" or "Unknowingly"...
 - 🌱 I’m currently interested in MSRPC, COM & DCOM - Windows Hacking and Red Teaming for Security Research Purposes.
 - 🔭 I’m currently working on improving `impacket`.
 
