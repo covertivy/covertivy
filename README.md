@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🥷 Covertivy 🤐">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=🥷%20Covertivy%20🤐">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=covertivy&show_icons=true&theme=radical&show_owner=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <br />
